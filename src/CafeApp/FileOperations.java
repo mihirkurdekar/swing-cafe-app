@@ -1,4 +1,4 @@
-package src.CafeApp;
+package CafeApp;
 
 import java.io.*;
 public class FileOperations {

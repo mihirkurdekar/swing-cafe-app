@@ -1,4 +1,4 @@
-package src.CafeApp;
+package CafeApp;
 
 /*
  * To change this template, choose Tools | Templates
